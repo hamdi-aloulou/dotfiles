@@ -2,5 +2,3 @@
 .emacs.d/elpa/archives
 .emacs.d/ac-comphist.dat
 *~
-.tmuxinator/*
-!.tmuxinator/README.md
